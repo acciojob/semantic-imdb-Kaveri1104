@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+nav{
+	background-color:black;
+}
+a{
+	padding:10px;
+	color:white;
+	text-decoration:none;
+}
+header{
+	font-weight:bold;
+}
+label{
+	font-weight:bold;
+}
+ul{
+	margin:0px;
+}
+p{
+	margin:0px;
+}
